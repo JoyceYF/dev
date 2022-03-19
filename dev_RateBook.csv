@@ -1,0 +1,101 @@
+text,slot,intent,intent_id
+rate this album four out of 6 stars,O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give this textbook four stars,O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+rate a twist in the tale zero out of 6 points,O B-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the children of niobe 1 out of 6 points,O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give zero stars to halo: ghosts of onyx,O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name I-object_name,RateBook,4
+give this novel a score of 5,O B-object_select B-object_type O O O B-rating_value,RateBook,4
+give the current series four of 6 points,O O B-object_select B-object_part_of_series_type B-rating_value O B-best_rating B-rating_unit,RateBook,4
+give 4 out of 6 points to the spirit ring chronicle,O B-rating_value O O B-best_rating B-rating_unit O B-object_name I-object_name I-object_name B-object_part_of_series_type,RateBook,4
+give two stars out of 6 to 36 children,O B-rating_value B-rating_unit O O B-best_rating O B-object_name I-object_name,RateBook,4
+rate the sneetches and other stories a three,O B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value,RateBook,4
+rate the current series four stars,O O B-object_select B-object_part_of_series_type B-rating_value B-rating_unit,RateBook,4
+rate this book a 4 out of 6,O B-object_select B-object_type O B-rating_value O O B-best_rating,RateBook,4
+rate the current novel 5 of 6 stars,O O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit,RateBook,4
+rate this book a 1,O B-object_select B-object_type O B-rating_value,RateBook,4
+give zero out of 6 to the current album,O B-rating_value O O B-best_rating O O B-object_select B-object_type,RateBook,4
+give this album 5 points,O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+rate the mystery of the tolling bell series 4 stars,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_part_of_series_type B-rating_value B-rating_unit,RateBook,4
+give the current novel two stars,O O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+give the current book 4 stars,O O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+give joe magarac and his usa citizen papers 5 points,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+rate the guilty 0 of 6 points,O B-object_name I-object_name B-rating_value O B-best_rating B-rating_unit,RateBook,4
+rate this textbook four out of 6,O B-object_select B-object_type B-rating_value O O B-best_rating,RateBook,4
+give the catedral series four stars,O O B-object_name B-object_part_of_series_type B-rating_value B-rating_unit,RateBook,4
+reminiscences of the anti-japanese guerillas chronicle deserves zero points out of 6 for a rating,B-object_name I-object_name I-object_name I-object_name I-object_name B-object_part_of_series_type O B-rating_value B-rating_unit O O B-best_rating O O O,RateBook,4
+give small screen big picture a 0 out of 6 rating,O B-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating O,RateBook,4
+gods and pawns should get a three,B-object_name I-object_name I-object_name O O O B-rating_value,RateBook,4
+give zero stars to this textbook,O B-rating_value B-rating_unit O B-object_select B-object_type,RateBook,4
+rate the current novel a 4 out of 6 stars,O O B-object_select B-object_type O B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the book the atmospheric railway 5 out of 6,O O B-object_type B-object_name I-object_name I-object_name B-rating_value O O B-best_rating,RateBook,4
+rate black boy 4 out of 6,O B-object_name I-object_name B-rating_value O O B-best_rating,RateBook,4
+rate the chronicle current 1 star,O O B-object_part_of_series_type B-object_select B-rating_value O,RateBook,4
+mark this album a score of 5,O B-object_select B-object_type O O O B-rating_value,RateBook,4
+rate the current novel zero out of 6,O O B-object_select B-object_type B-rating_value O O B-best_rating,RateBook,4
+rate the current novel a 2,O O B-object_select B-object_type O B-rating_value,RateBook,4
+give the giant devil dingo 4 points,O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+rate this current novel two out of 6,O B-object_select I-object_select B-object_type B-rating_value O O B-best_rating,RateBook,4
+give monthly index of medical specialities a two out of 6 rating,O B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating O,RateBook,4
+rate this novel 2 out of 6 points,O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the current novel 3 stars,O O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+rate the current essay zero out of 6 stars,O O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate this current album 0 stars,O B-object_select I-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+give a brief stop on the road from auschwitz 1 out of 6 stars,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate this album 4 out of 6 stars,O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate hate that cat 1 out of 6 stars,O B-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give my current book one of 6 stars,O O B-object_select B-object_type B-rating_value O B-best_rating B-rating_unit,RateBook,4
+rate current novel one stars,O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+give five out of 6 points to this album,O B-rating_value O O B-best_rating B-rating_unit O B-object_select B-object_type,RateBook,4
+give a rating of 2 to juneteenth,O O O O B-rating_value O B-object_name,RateBook,4
+rate ruth five out of 6 points,O B-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the sea of trolls 1 stars out of 6,O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O B-best_rating,RateBook,4
+give the zenith angle one out of 6 points,O B-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give zero stars to rhialto the marvellous,O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name,RateBook,4
+give the current book a zero of 6,O O B-object_select B-object_type O B-rating_value O B-best_rating,RateBook,4
+rate personal demons 0 out of 6 points,O B-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the current series a 4,O O B-object_select B-object_part_of_series_type O B-rating_value,RateBook,4
+give one of 6 points to who will cry when you die,O B-rating_value O B-best_rating B-rating_unit O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name,RateBook,4
+give zero out of 6 stars to this album,O B-rating_value O O B-best_rating B-rating_unit O B-object_select B-object_type,RateBook,4
+give this novel 2 stars,O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+rate the 8-week cholesterol cure three out of 6,O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating,RateBook,4
+rate this novel 3 out of 6 points,O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the lives of john lennon five points,O B-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+give the american scene 2 of 6 stars,O B-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit,RateBook,4
+rate this textbook a one,O B-object_select B-object_type O B-rating_value,RateBook,4
+give summer of the swans 1 points,O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+give the current textbook a rating of five,O O B-object_select B-object_type O O O B-rating_value,RateBook,4
+give 4 points to the person and the common good,O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name,RateBook,4
+give a four rating to a world apart,O O B-rating_value O O B-object_name I-object_name I-object_name,RateBook,4
+rate this chronicle 0 points,O B-object_select B-object_part_of_series_type B-rating_value B-rating_unit,RateBook,4
+give wilco: learning how to die a rating of four points,O B-object_name I-object_name I-object_name I-object_name I-object_name O O O B-rating_value B-rating_unit,RateBook,4
+rate this saga two out of 6,O B-object_select B-object_part_of_series_type B-rating_value O O B-best_rating,RateBook,4
+rate the gift: imagination and the erotic life of property five stars,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+rate neverwhere four out of 6,O B-object_name B-rating_value O O B-best_rating,RateBook,4
+rate in the company of cheerful ladies a zero out of 6,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating,RateBook,4
+give one start to the current book,O B-rating_value O O O B-object_select B-object_type,RateBook,4
+give this chronicle a 2 rating,O B-object_select B-object_part_of_series_type O B-rating_value O,RateBook,4
+rate this essay a 1,O B-object_select B-object_type O B-rating_value,RateBook,4
+out of 6 give rivers of babylon a 1,O O B-best_rating O B-object_name I-object_name I-object_name O B-rating_value,RateBook,4
+give 5 of 6 stars to expressive processing,O B-rating_value O B-best_rating B-rating_unit O B-object_name I-object_name,RateBook,4
+rate the ghost house series a one,O B-object_name I-object_name I-object_name B-object_part_of_series_type O B-rating_value,RateBook,4
+rate know ye not agincourt 2 out of 6 stars,O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+i would rate theft: a love story four out of 6 stars,O O O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+rate the further adventures of the joker four stars,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+give 0 rating to in the heart of the country,O B-rating_value O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name,RateBook,4
+give 1 out of 6 rating to the current textbook,O B-rating_value O O B-best_rating O O O B-object_select B-object_type,RateBook,4
+give the current chronicle five of 6 points,O O B-object_select B-object_part_of_series_type B-rating_value O B-best_rating B-rating_unit,RateBook,4
+rate cotton comes to harlem a 2,O B-object_name I-object_name I-object_name I-object_name O B-rating_value,RateBook,4
+give this album one stars,O B-object_select B-object_type B-rating_value B-rating_unit,RateBook,4
+rate the adventures of augie march one points,O B-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+rate soul music a 0,O B-object_name I-object_name O B-rating_value,RateBook,4
+give hindu temples: what happened to them a 5 out of 6 stars,O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give this novel a 1,O B-object_select B-object_type O B-rating_value,RateBook,4
+rate the current textbook 1 out of 6,O O B-object_select B-object_type B-rating_value O O B-best_rating,RateBook,4
+give this textbook 0 out of 6 stars,O B-object_select B-object_type B-rating_value O O B-best_rating B-rating_unit,RateBook,4
+give the crystal snare 5 stars,O B-object_name I-object_name I-object_name B-rating_value B-rating_unit,RateBook,4
+rate this saga two out of 6,O B-object_select B-object_part_of_series_type B-rating_value O O B-best_rating,RateBook,4
+give wilco: learning how to die a rating of four points,O B-object_name I-object_name I-object_name I-object_name I-object_name O O O B-rating_value B-rating_unit,RateBook,4
+rate this book 3 stars out of 6,O B-object_select B-object_type B-rating_value B-rating_unit O O B-best_rating,RateBook,4
+rate the three junes one out of 6,O O B-object_name I-object_name B-rating_value O O B-best_rating,RateBook,4
+give four stars to the broken window,O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name,RateBook,4
+rate the current series 4 points,O O B-object_select B-object_part_of_series_type B-rating_value B-rating_unit,RateBook,4

@@ -1,0 +1,101 @@
+text,slot,intent,intent_id
+i d like to have this track onto my classical relaxations playlist,O O O O O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add the album to my flow español playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add digging now to my young at heart playlist,O B-playlist I-playlist O B-playlist_owner B-entity_name I-entity_name I-entity_name O,AddToPlaylist,5
+add this song by too poetic to my piano ballads playlist,O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add this album to old school death metal,O O B-music_item O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+i need to add baro ferret to the urban hits under my name,O O O O B-artist I-artist O O B-playlist I-playlist O B-playlist_owner O,AddToPlaylist,5
+add the album to the might and myth power metal playlist,O O B-music_item O O B-playlist I-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+to the travelling playlist please add this david gahan song,O O B-playlist O O O O B-artist I-artist B-music_item,AddToPlaylist,5
+please add some petae townshend to my playlist fiesta hits con lali,O O O B-artist I-artist O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+i d like for kasey chambers s tune to be an addition to my chips and salsa playlist,O O O O B-artist I-artist O B-music_item O O O O O B-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add recalled to life to this is alejandro fernández,O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add nuba to my metal party playlist,O B-entity_name O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add jo stafford music to the workout twerkout playlist,O B-artist I-artist O O O B-playlist I-playlist O,AddToPlaylist,5
+put jean philippe goncalves onto my running to rock 170 to 190 bpm,O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add the song virales de siempre by the cary brothers to my gym playlist,O O B-music_item B-playlist I-playlist I-playlist O O B-artist I-artist O B-playlist_owner O O,AddToPlaylist,5
+onto jerry s classical moments in movies please add the album,O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist I-playlist O O O B-music_item,AddToPlaylist,5
+add beyond the valley of 1984 in playlist folk music at the gaslight café,O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add jerry calliste jr to my te quiero playlist,O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add porter wagoner to the the sleep machine waterscapes playlist,O B-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add the artist mike to the sexy as folk playlist,O O B-music_item B-artist O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add brazilian flag anthem to top 100 alternative tracks on spotify,O B-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add andy hunter to my evening commute playlist,O B-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+put petar georgiev kalica onto the old school hip hop playlist,O B-artist I-artist I-artist O O B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+can you add larry heard to my laundry playlist,O O O B-artist I-artist O B-playlist_owner B-playlist O,AddToPlaylist,5
+put vandemataram srinivas s track onto hiphop hot 50,O B-artist I-artist O B-music_item O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add millie corretjer to the rhythm playlist,O B-artist I-artist O B-playlist I-playlist O,AddToPlaylist,5
+add give us rest to my 70s smash hits playlist,O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add this track to my hands up playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+i d like for you to add bobby brown to my enamorándose playlist,O O O O O O O B-artist I-artist O B-playlist_owner B-playlist O,AddToPlaylist,5
+add jonathan sprout album to my this is miranda lambert playlist,O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add ireland in the junior eurovision song contest 2015 to my jazzy dinner playlist,O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add the album to the the sweet suite playlist,O O B-music_item O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add sarah slean to my playlist mellowed out gaming,O B-artist I-artist O B-playlist_owner O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add this album to the spanish beat playlist,O O B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add lofty fake anagram to the la mejor música de bso playlist,O B-entity_name I-entity_name I-entity_name O O B-playlist I-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add the track to the work playlist,O O B-music_item O O B-playlist O,AddToPlaylist,5
+add a song to this is racionais mc s,O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add track in my playlist called hands up,O B-music_item O B-playlist_owner O O B-playlist I-playlist,AddToPlaylist,5
+can you put this song from yutaka ozaki onto my this is miles davis playlist,O O O O B-music_item O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add a track to playlist cena con amigos,O O B-music_item O O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add the famous flower of serving-men to my evening acoustic playlist,O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add a song to indie hipster,O O B-music_item O B-playlist I-playlist,AddToPlaylist,5
+add the 40 cal tune to the laundry playlist,O O B-artist I-artist B-music_item O O B-playlist O,AddToPlaylist,5
+add the album to my perfect concentration playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add the matt murphy tune to the flow español playlist,O O B-artist I-artist B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add a very cellular song to masters of metal playlist,O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+can i put this tune onto my sin estrés playlist,O O O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+i d like to add jordan rudess onto the divertido para niños playlist,O O O O O B-artist I-artist O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add kent james to the disney soundtrack,O B-artist I-artist O O B-playlist O,AddToPlaylist,5
+add the artist adam deibert to my perfect concentration playlist,O O B-music_item B-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+can you put the artist giovanni giacomo gastoldi onto the chill out music playlist,O O O O B-music_item B-artist I-artist I-artist O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add the album to the hot 50 playlist,O O B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add the artist pete murray to my relaxing playlist,O O B-music_item B-artist I-artist O B-playlist_owner B-playlist O,AddToPlaylist,5
+add the track to the drum & breaks playlist,O O B-music_item O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+for my fantastic workout can you add sara bareilles,O B-playlist_owner B-playlist I-playlist O O O B-artist I-artist,AddToPlaylist,5
+add the boy george track to the emo forever playlist,O O B-artist I-artist B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add ted heath to the road trip playlist,O B-artist I-artist O O B-playlist I-playlist O,AddToPlaylist,5
+can you add last of the ghetto astronauts to the playlist called black sabbath the dio years,O O O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O O O O B-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add this artist to showstopper being mary jane,O O B-music_item O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+put the artist onto top latin alternative,O O B-music_item O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add michael wittig music to country icon playlist,O B-artist I-artist O O B-playlist I-playlist O,AddToPlaylist,5
+add highway patrolman in my playlist this is al green,O B-entity_name I-entity_name O B-playlist_owner O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add richard mcnamara newest song to the just smile playlist,O B-artist I-artist O B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add annesley malewana album to playlist indietronic,O B-artist I-artist B-music_item O O B-playlist,AddToPlaylist,5
+add the artist to my dishwashing playlist,O O B-music_item O B-playlist_owner B-playlist O,AddToPlaylist,5
+add this artist to fairy tales playlist,O O B-music_item O B-playlist I-playlist O,AddToPlaylist,5
+add muzika za decu to my crash course playlist,O B-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add a derek watkins tune to this is johnny cash,O O B-artist I-artist B-music_item O B-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add our little corner of the world music from gilmore girls to my the funny thing about football is playlist,O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add the current track to my this is tchaikovsky playlist,O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+put abe laboriel onto the escapada playlist,O B-artist I-artist O O B-playlist O,AddToPlaylist,5
+add abacab to beryl s party on fridays playlist,O B-entity_name O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+please add this track by paul mcguigan to the deep house playlist,O O O B-music_item O B-artist I-artist O O B-playlist I-playlist O,AddToPlaylist,5
+can you add the current tune to my calm before the storm playlist,O O O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+please add the image of you to my playlist crate diggers anonymous,O O B-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add a track to jazzy dinner,O O B-music_item O B-playlist I-playlist,AddToPlaylist,5
+add the album to the hipster soul playlist,O O B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add this tune to my sleepify playlist,O O B-music_item O B-playlist_owner B-playlist O,AddToPlaylist,5
+add jack white to my playlist this is shakira,O B-artist I-artist O B-playlist_owner O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add tommy johnson to the metalsucks playlist,O B-artist I-artist O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add the chris clark tune to my women of the blues playlist,O O B-artist I-artist B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add an artist to jukebox boogie rhythm & blues,O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist,AddToPlaylist,5
+add this artist to my electronic bliss playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+i need to add to my infinite indie folk list the works of rahim shah,O O O O O B-playlist_owner B-playlist I-playlist I-playlist O O O O B-artist I-artist,AddToPlaylist,5
+add martin barre to my punk unplugged playlist,O B-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add tierney sutton to my novedades viernes sudamérica playlist,O B-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add this tune to dorthy s 80 s party playlist,O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+a very cellular song needs to be added to my masters of metal playlist,B-entity_name I-entity_name I-entity_name I-entity_name O O O O O B-playlist_owner B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add toyan to my epic gaming playlist,O B-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add the song to the mac n cheese playlist,O O B-music_item O O B-playlist I-playlist I-playlist O,AddToPlaylist,5
+add this artist to my spotlight on country 2016 playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add a song to my playlist madden nfl 16,O O B-music_item O B-playlist_owner O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add emilie autumn to my nação reggae playlist,O B-artist I-artist O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add farhad darya songs in virales de siempre,O B-artist I-artist O O B-playlist I-playlist I-playlist,AddToPlaylist,5
+add a song in my all out 60s,O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist,AddToPlaylist,5
+add we have a theme song to my house afterwork playlist,O B-entity_name I-entity_name I-entity_name I-entity_name I-entity_name O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add the song to my we everywhere playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5
+add roel van velzen to my party of the century playlist,O B-artist I-artist I-artist O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O,AddToPlaylist,5
+add the artist to the political punks playlist,O O B-music_item O O B-playlist I-playlist O,AddToPlaylist,5
+add the album to my club hits playlist,O O B-music_item O B-playlist_owner B-playlist I-playlist O,AddToPlaylist,5

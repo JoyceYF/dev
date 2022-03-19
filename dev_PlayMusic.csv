@@ -1,0 +1,101 @@
+text,slot,intent,intent_id
+can you put on like a hurricane by paul landers,O O O O B-album I-album I-album O B-artist I-artist,PlayMusic,6
+play the happy blues by ronnie wood,O B-album I-album I-album O B-artist I-artist,PlayMusic,6
+play the newest melody on last fm by eddie vinson,O O B-sort B-music_item O B-service I-service O B-artist I-artist,PlayMusic,6
+use groove shark to play music,O B-service I-service O O O,PlayMusic,6
+please play something good from u-roy any song from 1975 on zvooq will do,O O O B-sort O B-artist O B-music_item O B-year O B-service O O,PlayMusic,6
+play a symphony from 2013,O O B-music_item O B-year,PlayMusic,6
+let me hear the good songs from james iha,O O O O B-sort O O B-artist I-artist,PlayMusic,6
+play my inventive playlist,O O B-playlist O,PlayMusic,6
+i want to play music from iheart,O O O O O O B-service,PlayMusic,6
+play subconscious lobotomy from jennifer paull,O B-album I-album O B-artist I-artist,PlayMusic,6
+i want to hear a seventies sound track,O O O O O B-year B-music_item I-music_item,PlayMusic,6
+play a john maher track,O O B-artist I-artist B-music_item,PlayMusic,6
+please play something from dihan slabbert that s on the top fifty,O O O O B-artist I-artist O O O O B-sort I-sort,PlayMusic,6
+please play something catchy on youtube,O O O B-playlist O B-service,PlayMusic,6
+play something from 2004 by imogen heap on spotify,O O O B-year O B-artist I-artist O B-service,PlayMusic,6
+play seventies music please,O B-year O O,PlayMusic,6
+play music from the artist sean yseult and sort it through top-50,O O O O O B-artist I-artist O O O O B-sort,PlayMusic,6
+play anything jd natasha did in the thirties,O O B-artist I-artist O O O B-year,PlayMusic,6
+play music off netflix,O O O B-service,PlayMusic,6
+nineties songs on zvooq,B-year O O B-service,PlayMusic,6
+open itunes and play ben burnley ready to die,O B-service O O B-artist I-artist B-album I-album I-album,PlayMusic,6
+play an ep by zak starkey,O O B-music_item O B-artist I-artist,PlayMusic,6
+play an album from nithyasree mahadevan,O O B-music_item O B-artist I-artist,PlayMusic,6
+i want to listen to something on youtube,O O O O O O O B-service,PlayMusic,6
+start playing something from iheart,O O O O B-service,PlayMusic,6
+play trance life on zvooq,O B-playlist I-playlist O B-service,PlayMusic,6
+find and play a concerto on zvooq from 1978 by ginger pooley,O O O O B-music_item O B-service O B-year O B-artist I-artist,PlayMusic,6
+play all things must pass,O B-track I-track I-track I-track,PlayMusic,6
+i want to hear music from allen toussaint from the fifties,O O O O O O B-artist I-artist O O B-year,PlayMusic,6
+turn on last fm,O O B-service I-service,PlayMusic,6
+play a song by rahsaan patterson,O O B-music_item O B-artist I-artist,PlayMusic,6
+play femme fatale by bonobo,O B-track I-track O B-artist,PlayMusic,6
+play some anneliese van der pol from the thirties on groove shark,O O B-artist I-artist I-artist I-artist O O B-year O B-service I-service,PlayMusic,6
+i want to listen to an ep from 1998,O O O O O O B-music_item O B-year,PlayMusic,6
+play paul mccartney,O B-artist I-artist,PlayMusic,6
+play jill sobule album,O B-album I-album B-music_item,PlayMusic,6
+play chant s from 1973,O B-music_item O O B-year,PlayMusic,6
+play something from 90s pop rock essentials,O O O B-playlist I-playlist I-playlist I-playlist,PlayMusic,6
+play have you met miss jones by nicole from google music,O B-track I-track I-track I-track I-track O B-artist O B-service I-service,PlayMusic,6
+play chant by nigger kojak on itunes,O B-music_item O B-artist I-artist O B-service,PlayMusic,6
+play some sixties songs on google music,O O B-year O O B-service I-service,PlayMusic,6
+play a fifties album from dj yoda on last fm,O O B-year B-music_item O B-artist I-artist O B-service I-service,PlayMusic,6
+please play my ecstatic playlist,O O O B-playlist O,PlayMusic,6
+open deezer and play curtain call: the hits by junichi okada,O B-service O O B-album I-album I-album I-album O B-artist I-artist,PlayMusic,6
+let s play jamie robertson s handover on vimeo,O O O B-artist I-artist O B-album O B-service,PlayMusic,6
+play a sixties soundtrack,O O B-year B-music_item,PlayMusic,6
+play this is: miles davis on lastfm,O B-playlist I-playlist I-playlist I-playlist O B-service,PlayMusic,6
+live in l a joseph meyer please,B-album I-album I-album I-album B-artist I-artist O,PlayMusic,6
+play the top twenty hisham abbas on youtube,O O B-sort I-sort B-artist I-artist O B-service,PlayMusic,6
+play some seventies filipp kirkorow,O O B-year B-artist I-artist,PlayMusic,6
+play the most popular puretone,O O B-sort I-sort B-artist,PlayMusic,6
+play music from e-type,O O O B-artist,PlayMusic,6
+can you play a j pero on groove shark,O O O B-artist I-artist I-artist O B-service I-service,PlayMusic,6
+play a bob burns song,O O B-artist I-artist B-music_item,PlayMusic,6
+i want to hear leroi moore on vimeo play the song chance of a lifetime,O O O O B-artist I-artist O B-service O O B-music_item B-track I-track I-track I-track,PlayMusic,6
+play some symphony music from david lindley,O O B-music_item O O B-artist I-artist,PlayMusic,6
+please play something on iheart from artist ari gold last album,O O O O B-service O O B-artist I-artist B-sort B-music_item,PlayMusic,6
+i want to hear them from the artist murcof,O O O O B-music_item O O O B-artist,PlayMusic,6
+play sound track music from the twenties,O B-music_item I-music_item O O O B-year,PlayMusic,6
+play dance with the devil by mr lordi,O B-track I-track I-track I-track O B-artist I-artist,PlayMusic,6
+play music from 1996,O O O B-year,PlayMusic,6
+go to itunes and play dr lecter by david hodges,O O B-service O O B-album I-album O B-artist I-artist,PlayMusic,6
+play s t r e e t d a d from hiromitsu agatsuma through pandora,O B-album I-album I-album I-album I-album I-album I-album I-album I-album O B-artist I-artist O B-service,PlayMusic,6
+play some movement from the fourties,O O B-music_item O O B-year,PlayMusic,6
+please tune into chieko ochi s good music,O B-music_item O B-artist I-artist O B-sort O,PlayMusic,6
+play the greatest music from bryan maclean,O O B-sort O O B-artist I-artist,PlayMusic,6
+play something on last fm,O O O B-service I-service,PlayMusic,6
+play music by joy nilo,O O O B-artist I-artist,PlayMusic,6
+play some gary lee conner,O O B-artist I-artist I-artist,PlayMusic,6
+play music by brian chase,O O O B-artist I-artist,PlayMusic,6
+can you play top zvooq by fink,O O O B-sort B-service O B-artist,PlayMusic,6
+play the top-20 nawang khechog soundtrack,O O B-sort B-artist I-artist B-music_item,PlayMusic,6
+let s hear stuff from andrew hewitt,O O O O O B-artist I-artist,PlayMusic,6
+play a good ep from the eighties by peter murphy,O O B-sort B-music_item O O B-year O B-artist I-artist,PlayMusic,6
+play another passenger from louis nelson delisle,O B-album I-album O B-artist I-artist I-artist,PlayMusic,6
+play the top music from the railway children off last fm,O O B-sort O O B-artist I-artist I-artist O B-service I-service,PlayMusic,6
+play the best becca,O O B-sort B-artist,PlayMusic,6
+play something by duke ellington from the seventies,O O O B-artist I-artist O O B-year,PlayMusic,6
+use the last fm service to play a mis niños de 30,O O B-service I-service O O O B-playlist I-playlist I-playlist I-playlist I-playlist,PlayMusic,6
+play my black sabbath: the dio years playlist,O O B-playlist I-playlist I-playlist I-playlist I-playlist O,PlayMusic,6
+play an ep from mike harding,O O B-music_item O B-artist I-artist,PlayMusic,6
+i want to hear anything from the rock symphonique genre please,O O O O O O O B-genre I-genre O O,PlayMusic,6
+please play a 1997 record,O O O B-year B-music_item,PlayMusic,6
+put what color is your sky by alana davis on the stereo,O B-album I-album I-album I-album I-album O B-artist I-artist O O O,PlayMusic,6
+please play a movement from george formby jr,O O O B-music_item O B-artist I-artist I-artist,PlayMusic,6
+play some new les vandyke on slacker,O O B-sort B-artist I-artist O B-service,PlayMusic,6
+please open zvooq,O O B-service,PlayMusic,6
+play progressive metal,O B-genre I-genre,PlayMusic,6
+i want to hear soundtrack music on youtube from helena iren michaelsen,O O O O B-music_item O O B-service O B-artist I-artist I-artist,PlayMusic,6
+play a song by ramesh narayan from 1960,O O B-music_item O B-artist I-artist O B-year,PlayMusic,6
+play some blues britânico,O O B-genre I-genre,PlayMusic,6
+proceed with hitomi nabatame music from 2003,O O B-artist I-artist O O B-year,PlayMusic,6
+play something on zvooq,O O O B-service,PlayMusic,6
+play music from lynn & wade llp,O O O B-artist I-artist I-artist I-artist,PlayMusic,6
+let me hear chris knight music,O O O B-artist I-artist O,PlayMusic,6
+let s hear good mohammad mamle on vimeo,O O O B-sort B-artist I-artist O B-service,PlayMusic,6
+please play a sound track from the fifties that s on iheart,O O O B-music_item I-music_item O O B-year O O O B-service,PlayMusic,6
+play music from van-pires by dmitry malikov,O B-album I-album I-album O B-artist I-artist,PlayMusic,6
+play rich sex on iheart,O B-track I-track O B-service,PlayMusic,6
+play modern psychedelia,O B-playlist I-playlist,PlayMusic,6
